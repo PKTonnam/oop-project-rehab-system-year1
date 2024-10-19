@@ -28,12 +28,6 @@ bin/
 # Ignore all .iml files
 *.iml
 
-# Ignore the .idea folder (IDE settings)
-.idea/
-
-# Ignore all .iml files
-*.iml
-
 ### VS Code ###
 .vscode/
 

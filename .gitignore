@@ -22,8 +22,15 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+# Ignore the .idea folder (IDE settings)
+.idea/
+
+# Ignore all .iml files
+*.iml
+
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
